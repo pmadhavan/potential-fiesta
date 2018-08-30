@@ -81,3 +81,4 @@ sList.delete(50);
 console.log(sList.toArray());
 sList.insertAtTheEnd(50);
 console.log(sList.toArray());
+sList.insertAtTheEnd(60);
